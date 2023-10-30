@@ -3,7 +3,7 @@
 ## 正文 <a href="#mainbody" id="mainbody"></a>
 
 * [🥳 楔子](README.md)
-* [1⃣ 第一天](mainbody/di-yi-tian.md)
+* [1⃣ 第一天 愚人之旅](mainbody/di-yi-tian-yu-ren-zhi-lv.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
