@@ -6,6 +6,6 @@
 
 [#1.2.3-zui-xiao-hua-ke-hang-chan-pin](../mainbody/di-yi-tian-yu-ren-zhi-lv.md#1.2.3-zui-xiao-hua-ke-hang-chan-pin "mention")
 
-[#2.1-su-ge-la-di-shi-ti-wen](../mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd.md#2.1-su-ge-la-di-shi-ti-wen "mention")
+[#2.1-su-ge-la-di-shi-ti-wen](../mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/#2.1-su-ge-la-di-shi-ti-wen "mention")
 
-[#2.3.1-liu-shi-hui-fu-chang-jing-xia-de-kao-liang](../mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd.md#2.3.1-liu-shi-hui-fu-chang-jing-xia-de-kao-liang "mention")
+[#2.3.1-liu-shi-hui-fu-chang-jing-xia-de-kao-liang](../mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/#2.3.1-liu-shi-hui-fu-chang-jing-xia-de-kao-liang "mention")
