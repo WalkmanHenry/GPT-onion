@@ -4,6 +4,7 @@
 
 * [🥳 楔子](README.md)
 * [1⃣ 第一天 愚人之旅](mainbody/di-yi-tian-yu-ren-zhi-lv.md)
+* [2⃣ 第二天 技术选型与TDD](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
