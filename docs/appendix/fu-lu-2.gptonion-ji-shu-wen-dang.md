@@ -31,8 +31,8 @@ GPT-Onion是一个以社区为中心的平台，旨在通过AI提示词来帮助
 * 数据库: MySQL (InnoDB)
 * 缓存: Redis
 
-{% content-ref url="fu-lu-2.-shu-ju-zi-dian.md" %}
-[fu-lu-2.-shu-ju-zi-dian.md](fu-lu-2.-shu-ju-zi-dian.md)
+{% content-ref url="fu-lu-3.-shu-ju-zi-dian.md" %}
+[fu-lu-3.-shu-ju-zi-dian.md](fu-lu-3.-shu-ju-zi-dian.md)
 {% endcontent-ref %}
 
 #### 2.3 错误处理和日志记录
