@@ -6,7 +6,7 @@
 * [1⃣ 第一天 愚人之旅](mainbody/di-yi-tian-yu-ren-zhi-lv/README.md)
   * [1.1 不可能三角](mainbody/di-yi-tian-yu-ren-zhi-lv/1.1-bu-ke-neng-san-jiao.md)
   * [1.2 产品功能与PRD](mainbody/di-yi-tian-yu-ren-zhi-lv/1.2-chan-pin-gong-neng-yu-prd.md)
-* [Page](mainbody/page.md)
+  * [1.3 最小化可行产品](mainbody/di-yi-tian-yu-ren-zhi-lv/1.3-zui-xiao-hua-ke-hang-chan-pin.md)
 * [2⃣ 第二天 技术选型与TDD](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd.md)
   * [2.1 苏格拉底式提问](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.1-su-ge-la-di-shi-ti-wen.md)
   * [2.2 技术选型](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.2-ji-shu-xuan-xing.md)
