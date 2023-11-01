@@ -13,3 +13,17 @@ ChatGPT也好，Claude也好，Llma2也罢，各种大语言模型应用接连�
 这一周里，我们从项目的分析和规划，到程序的编写，全程只有一个人和一台MacBook。
 
 前路漫漫，道阻且长，行则将至，你我共勉。
+
+
+
+### 序1
+
+没想到写着写着竟然已达4万字，看来产出可能比我想象中要更细致。
+
+本来打算写系列文，没想到这接下来预估得10万字打底。
+
+有想法后期再做细化进行出版。
+
+英文版的翻译工作是在抽不开身，才译得小半不到，详见技术博客：
+
+[Reinventing the Wheel in 7 Days:Guide to Project Management and Technical Practices](https://dev.to/walkman42/7-days-467)
