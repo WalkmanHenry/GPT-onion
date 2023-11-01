@@ -13,8 +13,8 @@
   * [2.3 转语言和多语言并行](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.3-zhuan-yu-yan-he-duo-yu-yan-bing-hang.md)
   * [2.4 数据库选型](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.4-shu-ju-ku-xuan-xing.md)
   * [2.5 技术细节](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.5-ji-shu-xi-jie.md)
-  * [3⃣ 第三天 数据库结构设计](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/di-san-tian-shu-ju-ku-jie-gou-she-ji/README.md)
-    * [3.1 第一张表和第一条数据](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/di-san-tian-shu-ju-ku-jie-gou-she-ji/3.1-di-yi-zhang-biao-he-di-yi-tiao-shu-ju.md)
+* [3⃣ 第三天 数据库结构设计](mainbody/di-san-tian-shu-ju-ku-jie-gou-she-ji/README.md)
+  * [3.1 第一张表和第一条数据](mainbody/di-san-tian-shu-ju-ku-jie-gou-she-ji/3.1-di-yi-zhang-biao-he-di-yi-tiao-shu-ju.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
