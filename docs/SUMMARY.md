@@ -11,6 +11,8 @@
   * [2.1 苏格拉底式提问](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.1-su-ge-la-di-shi-ti-wen.md)
   * [2.2 技术选型](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.2-ji-shu-xuan-xing.md)
   * [2.3 转语言和多语言并行](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.3-zhuan-yu-yan-he-duo-yu-yan-bing-hang.md)
+  * [2.4 数据库选型](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.4-shu-ju-ku-xuan-xing.md)
+  * [2.5 技术细节](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.5-ji-shu-xi-jie.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
