@@ -7,7 +7,7 @@
   * [1.1 不可能三角](mainbody/di-yi-tian-yu-ren-zhi-lv/1.1-bu-ke-neng-san-jiao.md)
   * [1.2 产品功能与PRD](mainbody/di-yi-tian-yu-ren-zhi-lv/1.2-chan-pin-gong-neng-yu-prd.md)
   * [1.3 最小化可行产品](mainbody/page.md)
-* [2⃣ 第二天 技术选型与TDD](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd.md)
+* [第二天 技术选型与TDD](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/README.md)
   * [2.1 苏格拉底式提问](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.1-su-ge-la-di-shi-ti-wen.md)
   * [2.2 技术选型](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.2-ji-shu-xuan-xing.md)
   * [2.3 转语言和多语言并行](mainbody/di-er-tian-ji-shu-xuan-xing-yu-tdd/2.3-zhuan-yu-yan-he-duo-yu-yan-bing-hang.md)
