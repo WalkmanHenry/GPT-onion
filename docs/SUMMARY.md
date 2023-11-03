@@ -16,10 +16,11 @@
 * [3⃣ 第三天 数据库结构设计](mainbody/day3/README.md)
   * [3.1 第一张表和第一条数据](mainbody/day3/3.1-fist-step.md)
   * [3.2 北冥有鱼，其名为鲲](mainbody/day3/3.2-big-tables-and-redis.md)
+  * [3.3 Redis作为缓存的应用](mainbody/day3/3.3-redis-zuo-wei-huan-cun-de-ying-yong.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
 * [🚩 知识地图](appendix/zhi-shi-di-tu.md)
 * [📙 附录1.GPT-Onion 产品PRD](appendix/fu-lu-1.gptonion-chan-pin-prd.md)
 * [📕 附录2.GPT-Onion技术文档](appendix/fu-lu-2.gptonion-ji-shu-wen-dang.md)
-* [📗 附录3.数据字典](appendix/fu-lu-3.-shu-ju-zi-dian.md)
+* [📗 附录3.数据字典](appendix/appendix-3-data-dict.md)
