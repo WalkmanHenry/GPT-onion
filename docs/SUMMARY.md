@@ -18,6 +18,11 @@
   * [3.2 北冥有鱼，其名为鲲](mainbody/day3/3.2-big-tables-and-redis.md)
   * [3.3 Redis作为缓存的应用](mainbody/day3/3.3-redis-zuo-wei-huan-cun-de-ying-yong.md)
 
+***
+
+* [4⃣ 第四天 核心逻辑编写](day4/README.md)
+  * [4.1 设计模式与架构模式](day4/4.1-she-ji-mo-shi-yu-jia-gou-mo-shi.md)
+
 ## 附录 <a href="#appendix" id="appendix"></a>
 
 * [🚩 知识地图](appendix/zhi-shi-di-tu.md)
