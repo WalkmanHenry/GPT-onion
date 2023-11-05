@@ -7,7 +7,7 @@
   * [1.1 不可能三角](mainbody/day1/1.1-impossible-triangle.md)
   * [1.2 产品功能与PRD](mainbody/day1/1.2-product-requirement-docs.md)
   * [1.3 最小化可行产品](mainbody/day1/1.3-about-mvp.md)
-* [第二天 技术选型与TDD](mainbody/day2/README.md)
+* [2⃣ 第二天 技术选型与TDD](mainbody/day2/README.md)
   * [2.1 苏格拉底式提问](mainbody/day2/2.1-su-ge-la-di-shi-ti-wen.md)
   * [2.2 技术选型](mainbody/day2/2.2-technology-stack-choice.md)
   * [2.3 转语言和多语言并行](mainbody/day2/2.3-zhuan-yu-yan-he-duo-yu-yan-bing-hang.md)
