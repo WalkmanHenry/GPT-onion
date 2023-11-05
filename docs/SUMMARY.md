@@ -29,3 +29,4 @@
 * [📙 附录1.GPT-Onion 产品PRD](appendix/fu-lu-1.gptonion-chan-pin-prd.md)
 * [📕 附录2.GPT-Onion技术文档](appendix/fu-lu-2.gptonion-ji-shu-wen-dang.md)
 * [📗 附录3.数据字典](appendix/appendix-3-data-dict.md)
+* [📑 附录4.代码目录表](appendix/fu-lu-4.-dai-ma-mu-lu-biao.md)

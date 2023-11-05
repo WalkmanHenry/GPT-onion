@@ -27,3 +27,23 @@ ChatGPT也好，Claude也好，Llma2也罢，各种大语言模型应用接连�
 英文版的翻译工作是在抽不开身，才译得小半不到，详见技术博客：
 
 [Reinventing the Wheel in 7 Days:Guide to Project Management and Technical Practices](https://dev.to/walkman42/7-days-467)
+
+
+
+### 序2
+
+最近每天都有新的更高优先级的事情插进来，第四天，不知不觉已经完成5万字。
+
+想说的东西实在是太多，很多的设计理念和治理理念都来不及展开细说。
+
+真要是只讲讲代码的实现，那么~~这个系列文章~~这本书的格局是不是就优点小了？
+
+出于私心和分享欲，决定再次扩充本书的知识面。
+
+
+
+### 其他
+
+承接咨询工作和智能合约代码审计工作。
+
+hadams0214@gmail.com
