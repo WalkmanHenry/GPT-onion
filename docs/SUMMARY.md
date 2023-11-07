@@ -16,12 +16,17 @@
 * [3⃣ 第三天 数据库结构设计](mainbody/day3/README.md)
   * [3.1 第一张表和第一条数据](mainbody/day3/3.1-fist-step.md)
   * [3.2 北冥有鱼，其名为鲲](mainbody/day3/3.2-big-tables-and-redis.md)
-  * [3.3 Redis作为缓存的应用](mainbody/day3/3.3-redis-zuo-wei-huan-cun-de-ying-yong.md)
+  * [3.3 Redis作为缓存的应用](mainbody/day3/3.3-redis-as-temp.md)
 
 ***
 
 * [4⃣ 第四天 核心逻辑编写](day4/README.md)
-  * [4.1 设计模式与架构模式](day4/4.1-she-ji-mo-shi-yu-jia-gou-mo-shi.md)
+  * [4.1 设计模式与架构模式](day4/4.1-design-patterns-and-architectural-patterns.md)
+  * [4.2 数据模型的扩充处理](day4/4.2-data-model.md)
+  * [4.3 缓存和持久存储的业务实现](day4/4.3-temp-and-nosql-in-golang.md)
+* [第五天 高并发优化处理](day5.md)
+* [第六天 BUG和测试](day6.md)
+* [第七天 技术文档编写](day7.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
