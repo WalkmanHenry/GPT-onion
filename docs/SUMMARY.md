@@ -24,9 +24,9 @@
   * [4.1 设计模式与架构模式](day4/4.1-design-patterns-and-architectural-patterns.md)
   * [4.2 数据模型的扩充处理](day4/4.2-data-model.md)
   * [4.3 缓存和持久存储的业务实现](day4/4.3-temp-and-nosql-in-golang.md)
-* [第五天 高并发优化处理](day5.md)
-* [第六天 BUG和测试](day6.md)
-* [第七天 技术文档编写](day7.md)
+* [5⃣ 第五天 高并发优化处理](day5.md)
+* [6⃣ 第六天 BUG和测试](day6.md)
+* [7⃣ 第七天 技术文档编写](day7.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
