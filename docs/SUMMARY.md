@@ -35,6 +35,6 @@
 * [📗 附录3.数据字典](appendix/appendix-3-data-dict.md)
 * [📑 附录4.代码目录表](appendix/appendix-4.code-directory-table.md)
 * [📕 附录2.GPT-Onion技术文档](appendix/appendix-2.tech-docs.md)
-* [待更新](appendix/dai-geng-xin/README.md)
+* [🛸 待更新](appendix/dai-geng-xin/README.md)
   * [4.3 缓存和持久存储的业务实现](appendix/dai-geng-xin/4.3-temp-and-nosql-in-golang.md)
   * [4.4流式回复与Server-Sent Events](appendix/dai-geng-xin/4.4-streaming-replies-and-sse.md)
