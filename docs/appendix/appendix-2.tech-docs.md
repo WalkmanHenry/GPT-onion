@@ -10,13 +10,13 @@ GPT-Onion是一个以社区为中心的平台，旨在通过AI提示词来帮助
 
 #### 1.2 功能需求
 
-{% content-ref url="fu-lu-1.gptonion-chan-pin-prd.md" %}
-[fu-lu-1.gptonion-chan-pin-prd.md](fu-lu-1.gptonion-chan-pin-prd.md)
+{% content-ref url="appendix-1.gptonion-prd.md" %}
+[appendix-1.gptonion-prd.md](appendix-1.gptonion-prd.md)
 {% endcontent-ref %}
 
 #### 1.3 用户角色
 
-[#yong-hu-jiao-se](fu-lu-1.gptonion-chan-pin-prd.md#yong-hu-jiao-se "mention")(参见产品需求文档)
+[#yong-hu-jiao-se](appendix-1.gptonion-prd.md#yong-hu-jiao-se "mention")(参见产品需求文档)
 
 ### 2. 技术架构
 
