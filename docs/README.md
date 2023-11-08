@@ -18,7 +18,7 @@ OpenAI的接口访问限制是什么？每分钟请求数(RPM)是什么？会给
 
 前路漫漫，道阻且长，行则将至，你我共勉。
 
-
+<figure><img src=".gitbook/assets/screen-shot.png" alt=""><figcaption></figcaption></figure>
 
 ### 序1
 

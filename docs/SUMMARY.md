@@ -23,9 +23,8 @@
 * [4⃣ 第四天 核心逻辑编写](day4/README.md)
   * [4.1 设计模式与架构模式](day4/4.1-design-patterns-and-architectural-patterns.md)
   * [4.2 数据模型的扩充处理](day4/4.2-data-model.md)
-  * [4.3 缓存和持久存储的业务实现](day4/4.3-temp-and-nosql-in-golang.md)
-  * [4.4流式回复与Server-Sent Events](day4/4.4-streaming-replies-and-sse.md)
-* [5⃣ 第五天 高并发优化处理](day5.md)
+* [5⃣ 第五天 高并发优化处理](day5/README.md)
+  * [5.1 应对OpenAI接口请求限制](day5/5.1-openai-limits.md)
 * [6⃣ 第六天 BUG和测试](day6.md)
 * [7⃣ 第七天 技术文档编写](day7.md)
 
@@ -33,6 +32,9 @@
 
 * [🚩 知识地图](appendix/appendix-0.knowledge-map.md)
 * [📙 附录1.GPT-Onion 产品PRD](appendix/appendix-1.gptonion-prd.md)
-* [📕 附录2.GPT-Onion技术文档](appendix/appendix-2.tech-docs.md)
 * [📗 附录3.数据字典](appendix/appendix-3-data-dict.md)
 * [📑 附录4.代码目录表](appendix/appendix-4.code-directory-table.md)
+* [📕 附录2.GPT-Onion技术文档](appendix/appendix-2.tech-docs.md)
+* [待更新](appendix/dai-geng-xin/README.md)
+  * [4.3 缓存和持久存储的业务实现](appendix/dai-geng-xin/4.3-temp-and-nosql-in-golang.md)
+  * [4.4流式回复与Server-Sent Events](appendix/dai-geng-xin/4.4-streaming-replies-and-sse.md)
