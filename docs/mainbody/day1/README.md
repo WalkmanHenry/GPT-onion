@@ -1,5 +1,7 @@
 # 1⃣ 第一天 愚人之旅
 
+<figure><img src="../../.gitbook/assets/DALL·E Tarot Fool&#x27;s Journey.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 就像塔罗牌的第一张牌，我们开启了愚人之旅。 我们都希望能够快速的到达终点，所以所有人都在寻找捷径。 然而，真正的捷径是“不走弯路”。
 {% endhint %}

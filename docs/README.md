@@ -1,5 +1,7 @@
 # 0⃣ 楔子
 
+<figure><img src=".gitbook/assets/DALL·E Wheel Illustration.png" alt=""><figcaption><p>封面图均由AI创作</p></figcaption></figure>
+
 ### 写在前面的话
 
 ChatGPT也好，Claude也好，Llma2也罢，各种大语言模型应用接连出现。
