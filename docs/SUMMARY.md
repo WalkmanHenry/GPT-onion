@@ -17,14 +17,14 @@
   * [3.1 第一张表和第一条数据](mainbody/day3/3.1-fist-step.md)
   * [3.2 北冥有鱼，其名为鲲](mainbody/day3/3.2-big-tables-and-redis.md)
   * [3.3 Redis作为缓存的应用](mainbody/day3/3.3-redis-as-temp.md)
+* [4⃣ 第四天 核心逻辑编写](mainbody/day4/README.md)
+  * [4.1 设计模式与架构模式](mainbody/day4/4.1-design-patterns-and-architectural-patterns.md)
+  * [4.2 数据模型的扩充处理](mainbody/day4/4.2-data-model.md)
+* [5⃣ 第五天 高并发优化处理](mainbody/day5/README.md)
+  * [5.1 应对OpenAI接口请求限制](mainbody/day5/5.1-openai-limits.md)
 
 ***
 
-* [4⃣ 第四天 核心逻辑编写](day4/README.md)
-  * [4.1 设计模式与架构模式](day4/4.1-design-patterns-and-architectural-patterns.md)
-  * [4.2 数据模型的扩充处理](day4/4.2-data-model.md)
-* [5⃣ 第五天 高并发优化处理](day5/README.md)
-  * [5.1 应对OpenAI接口请求限制](day5/5.1-openai-limits.md)
 * [6⃣ 第六天 BUG和测试](day6.md)
 * [7⃣ 第七天 技术文档编写](day7.md)
 
